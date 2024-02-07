@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/4a0e8f48-7cfc-41af-b0ed-b50020beab61/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/buzzwell-backedn",
+    "appService.deploySubpath": "."
+}
